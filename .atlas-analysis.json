@@ -1,0 +1,140 @@
+{
+  "projectType": "general",
+  "projectName": "Cambria Quartz Surfaces",
+  "projectDescription": "Cambria is a family-owned, American-made manufacturer of natural quartz countertops and surfaces, offering an extensive design palette with a transferable Full Lifetime Warranty.",
+  "theme": "almond",
+  "primaryColor": "#2281fa",
+  "lightColor": "#095fd9",
+  "darkColor": null,
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Products",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "introduction",
+              "why-cambria",
+              "certifications"
+            ]
+          },
+          {
+            "group": "Surfaces",
+            "pages": [
+              "surfaces/quartz-colors",
+              "surfaces/finishes-textures",
+              "surfaces/thicknesses-edge-profiles"
+            ]
+          },
+          {
+            "group": "Applications",
+            "pages": [
+              "applications/kitchens-baths",
+              "applications/unique-installs",
+              "applications/commercial"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Planning",
+        "groups": [
+          {
+            "group": "Project Types",
+            "pages": [
+              "planning/overview",
+              "planning/countertop-replacement",
+              "planning/remodel",
+              "planning/new-build"
+            ]
+          },
+          {
+            "group": "Installation",
+            "pages": [
+              "planning/installation-process",
+              "planning/finding-a-professional",
+              "planning/cost-guide"
+            ]
+          },
+          {
+            "group": "Care & Warranty",
+            "pages": [
+              "care/product-care",
+              "care/what-to-avoid",
+              "care/warranty"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "FAQ",
+        "groups": [
+          {
+            "group": "About Cambria",
+            "pages": [
+              "faq/about-cambria",
+              "faq/purchasing"
+            ]
+          },
+          {
+            "group": "Installation & Care",
+            "pages": [
+              "faq/installation",
+              "faq/product-care"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Professionals",
+        "groups": [
+          {
+            "group": "For Trade Partners",
+            "pages": [
+              "professionals/overview",
+              "professionals/fabricators",
+              "professionals/builders",
+              "professionals/commercial"
+            ]
+          },
+          {
+            "group": "Resources",
+            "pages": [
+              "professionals/cambria-university",
+              "professionals/safety",
+              "professionals/baba-compliance"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Natural quartz surfaces with 93% quartz content — one of the hardest minerals on Earth",
+    "Maintenance free — no sealing, polishing, or reconditioning ever required",
+    "Transferable Full Lifetime Warranty included with every purchase",
+    "Broadest design palette in the industry across hundreds of exclusive designs",
+    "Four surface finishes: Polished, Cambria Matte®, Cambria Satin™, Cambria Luxe™",
+    "Available in 1cm, 2cm, and 3cm thicknesses with 19+ edge profile options",
+    "Nonporous, nonabsorbent, stain resistant, and NSF-51 food safety certified",
+    "GREENGUARD Gold certified for low VOC emissions",
+    "Family-owned and proudly American made — 95%+ of costs reinvested in the U.S. economy",
+    "Available for kitchens, bathrooms, shower walls, fireplaces, wall cladding, and furniture",
+    "Cambria University™ training program for fabricators and installers",
+    "30+ U.S. distribution centers with nationwide dealer and showroom network"
+  ],
+  "publicApiSurface": [
+    "Product designs: St. Isley™, Traymore Bay™, Claremont™, Kenwood™, Brittanicca®, Everleigh Warm™, and 200+ more",
+    "Finishes: Polished, Cambria Matte®, Cambria Satin™, Cambria Luxe™",
+    "Textures: Inverness®, Satin Ridge™, Sculpted",
+    "Thicknesses: 1cm, 2cm, 3cm",
+    "Slab sizes: Standard (122″ x 55.5″), Jumbo (132″ x 65.5″)",
+    "Edge profiles: Seacliff, Ridgeline, Treeline, Volcanic, Summit, Piedmont, Cascade, Rimrock, and more",
+    "Contact: 1-866-CAMBRIA (1-866-226-2742)",
+    "Room Visualizer tool",
+    "Dealer/Showroom Locator",
+    "Product warranty registration",
+    "Cambria University™ training for trade professionals"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "sequoia",
+  "name": "Cambria Quartz Surfaces",
+  "description": "Customer guide for Cambria natural quartz countertops — designs, planning, installation, care, and warranty.",
+  "colors": {
+    "primary": "#2281fa",
+    "light": "#095fd9",
+    "dark": "#2281fa"
+  },
+  "favicon": "https://icons.duckduckgo.com/ip3/cambriausa.atlassian.net.ico",
+  "icons": {
+    "library": "lucide"
+  },
+  "metadata": {
+    "timestamp": true
+  },
+  "contextual": {
+    "options": ["copy", "view", "assistant"]
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Products",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "introduction",
+              "why-cambria",
+              "certifications"
+            ]
+          },
+          {
+            "group": "Surfaces",
+            "pages": [
+              "surfaces/quartz-colors",
+              "surfaces/finishes-textures",
+              "surfaces/thicknesses-edge-profiles"
+            ]
+          },
+          {
+            "group": "Applications",
+            "pages": [
+              "applications/kitchens-baths",
+              "applications/unique-installs",
+              "applications/commercial"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Planning",
+        "groups": [
+          {
+            "group": "Project Types",
+            "pages": [
+              "planning/overview",
+              "planning/countertop-replacement",
+              "planning/remodel",
+              "planning/new-build"
+            ]
+          },
+          {
+            "group": "Installation",
+            "pages": [
+              "planning/installation-process",
+              "planning/finding-a-professional",
+              "planning/cost-guide"
+            ]
+          },
+          {
+            "group": "Care & Warranty",
+            "pages": [
+              "care/product-care",
+              "care/what-to-avoid",
+              "care/warranty"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "FAQ",
+        "groups": [
+          {
+            "group": "About Cambria",
+            "pages": [
+              "faq/about-cambria",
+              "faq/purchasing"
+            ]
+          },
+          {
+            "group": "Installation & Care",
+            "pages": [
+              "faq/installation",
+              "faq/product-care"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Professionals",
+        "groups": [
+          {
+            "group": "Trade Partners",
+            "pages": [
+              "professionals/overview",
+              "professionals/fabricators",
+              "professionals/builders",
+              "professionals/commercial"
+            ]
+          },
+          {
+            "group": "Resources",
+            "pages": [
+              "professionals/cambria-university",
+              "professionals/safety",
+              "professionals/baba-compliance"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Find a Showroom",
+        "href": "https://www.cambriausa.com/dealer-locator/locations"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Get a Consultation",
+      "href": "https://www.cambriausa.com/consultation"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/CambriaSurfaces",
+      "instagram": "https://www.instagram.com/cambriasurfaces"
+    }
+  }
+}
